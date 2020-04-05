@@ -1,0 +1,10 @@
+C:\Users\yjwar\source\repos\TikTakToe\TikTakToe\bin\Debug\netcoreapp2.2\TikTakToe.deps.json
+C:\Users\yjwar\source\repos\TikTakToe\TikTakToe\bin\Debug\netcoreapp2.2\TikTakToe.runtimeconfig.json
+C:\Users\yjwar\source\repos\TikTakToe\TikTakToe\bin\Debug\netcoreapp2.2\TikTakToe.runtimeconfig.dev.json
+C:\Users\yjwar\source\repos\TikTakToe\TikTakToe\bin\Debug\netcoreapp2.2\TikTakToe.dll
+C:\Users\yjwar\source\repos\TikTakToe\TikTakToe\bin\Debug\netcoreapp2.2\TikTakToe.pdb
+C:\Users\yjwar\source\repos\TikTakToe\TikTakToe\obj\Debug\netcoreapp2.2\TikTakToe.csprojAssemblyReference.cache
+C:\Users\yjwar\source\repos\TikTakToe\TikTakToe\obj\Debug\netcoreapp2.2\TikTakToe.AssemblyInfoInputs.cache
+C:\Users\yjwar\source\repos\TikTakToe\TikTakToe\obj\Debug\netcoreapp2.2\TikTakToe.AssemblyInfo.cs
+C:\Users\yjwar\source\repos\TikTakToe\TikTakToe\obj\Debug\netcoreapp2.2\TikTakToe.dll
+C:\Users\yjwar\source\repos\TikTakToe\TikTakToe\obj\Debug\netcoreapp2.2\TikTakToe.pdb
